@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup
+    android:id="@+id/rg_sex"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="100dp">
+
+    <RadioButton
+        android:id="@+id/rb_sex_m"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:checked="true"
+        tools:text="@string/rb_sex_m"
+        android:layout_margin="30dp"/>
+
+    <RadioButton
+        android:id="@+id/rb_sex_woman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:text="@string/rb_sex_woman"
+        android:layout_margin="30dp"/>
+
+</RadioGroup>

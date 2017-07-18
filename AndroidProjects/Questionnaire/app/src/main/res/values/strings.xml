@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="about_logo">This is a good application</string>
+    <string name="about_btnOk">OK</string>
+
+    <string-array name="positions">
+    <item>Surname</item>
+    <item>Given Names</item>
+    <item>Nationality</item>
+    <item>Date of birth</item>
+    <item>Sex</item>
+    <item>Place of birth</item>
+    <item>Personal No.</item>
+    <item>Date of issue</item>
+    <item>Date of expiry</item>
+    <item>Authority</item>
+    <item>Passport No.</item>
+    </string-array>
+
+    <string-array name="nationality">
+        <item>--------</item>
+        <item>UKRAINIAN</item>
+        <item>RUSSIAN</item>
+        <item>TURKISH</item>
+        <item>POLISH</item>
+        <item>ROMANIAN</item>
+    </string-array>
+
+    <string-array name="place">
+        <item>--------</item>
+        <item>UKR</item>
+        <item>RUS</item>
+        <item>TUR</item>
+        <item>POL</item>
+        <item>ROM</item>
+    </string-array>
+
+    <string name="surname_title">Surname form</string>
+    <string name="surname_msg">Input your surname</string>
+    <string name="surname_btn_set">Set</string>
+    <string name="surname_btn_cencel">Cencel</string>
+
+    <string name="given_names_title">Given names form</string>
+    <string name="given_names_msg">Input your given names</string>
+
+    <string name="nationality_title">Nationality form</string>
+    <string name="nationality_msg">Choose your nationality</string>
+
+    <string name="sex_title">Sex form</string>
+    <string name="sex_msg">Choose your sex</string>
+
+    <string name="place_of_birth_title">Place of birth form</string>
+    <string name="place_of_birth_msg">Input your place of birth</string>
+
+    <string name="personal_no_title">Personal No. form</string>
+    <string name="personal_no_msg">Input your personal no.</string>
+
+    <string name="authority_title">Authority form</string>
+    <string name="authority_msg">Input your authority</string>
+
+    <string name="passport_no_title">Passport no. form</string>
+    <string name="passport_no_msg">Input your passport no.</string>
+
+    <string name="series">Series</string>
+    <string name="number">Number</string>
+
+    <string name="rb_sex_m">MAN</string>
+    <string name="rb_sex_woman">WOMAN</string>
+</resources>

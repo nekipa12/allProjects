@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic-Tac_Toe</string>
+    <string name="btnPlay">Play</string>
+    <string name="rb_3x3">Player vs Player</string>
+    <string name="rb_5x5">Player vs Computer</string>
+    <string name="text">Choose game</string>
+</resources>

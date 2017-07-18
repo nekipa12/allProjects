@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\JAVA\AndroidSDK\extras\android\m2repository\com\android\support\appcompat-v7"/>
+		<item value="D:\JAVA\Projects\PhotoShop"/>
+		<item value="C:\Users\nekip\Downloads\111111111111111111"/>
+		<item value="D:\JAVA\Projects\XML-RPCserver"/>
+		<item value="D:\JAVA\Projects\XML-RPCclient"/>
+		<item value="D:\JAVA\Projects\RMIServer"/>
+		<item value="D:\JAVA\Projects\RMIClient"/>
+		<item value="D:\JAVA\Projects\GUIchat"/>
+		<item value="D:\JAVA\Projects\GUI"/>
+		<item value="D:\JAVA\Projects\WordsServer"/>
+		<item value="D:\JAVA\Projects\WordsClient"/>
+		<item value="D:\JAVA\Projects\17-12-16"/>
+		<item value="D:\JAVA\Projects\BlackJack"/>
+		<item value="D:\JAVA\Projects\FileManager"/>
+		<item value="D:\JAVA\Projects\FileManagerInThreads"/>
+		<item value="D:\JAVA\Projects\TSPClientThreads"/>
+		<item value="D:\JAVA\Projects\TCPServerThread"/>
+		<item value="D:\JAVA\Projects\TCPServer"/>
+		<item value="D:\JAVA\Projects\TCPClient"/>
+	</list>
+</section>

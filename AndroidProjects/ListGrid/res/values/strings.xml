@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListGrid</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array name="MyStringArray">
+    	<item >Intel</item>
+    	<item >AMD</item>//массив через XML
+    	<item >nVIDIA</item>
+    	<item >nVIDIA6</item>
+    	<item >nVIDIA5</item>
+    	<item >nVIDIA4</item>
+    	<item >nVIDIA3</item>
+    	<item >nVIDIA2</item>
+    	<item >nVIDIA1</item>
+	</string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/et_given_names"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="100dp"
+    android:layout_weight="1"
+    android:digits="QWERTYUIOPLKJHGFDSAZXCVBNM`"
+    android:ems="10"
+    android:inputType="textCapCharacters"
+    android:maxLength="20">
+
+</EditText>

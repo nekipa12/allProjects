@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@drawable/place"
+    tools:context="next.shag.edu.tic_tac_toe.SmallSizeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="0.33">
+
+        <fragment
+            android:id="@+id/fragment_00"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+
+        <fragment
+            android:id="@+id/fragment_01"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+
+        <fragment
+            android:id="@+id/fragment_02"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="0.33">
+
+        <fragment
+            android:id="@+id/fragment_10"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+
+        <fragment
+            android:id="@+id/fragment_11"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+
+        <fragment
+            android:id="@+id/fragment_12"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="0.33">
+
+        <fragment
+            android:id="@+id/fragment_20"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+
+        <fragment
+            android:id="@+id/fragment_21"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+
+        <fragment
+            android:id="@+id/fragment_22"
+            android:name="next.shag.edu.tic_tac_toe.Fragment1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment1" />
+    </LinearLayout>
+
+</LinearLayout>

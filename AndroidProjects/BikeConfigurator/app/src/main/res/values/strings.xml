@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Bike Configurator</string>
+    <string name="btn">BUILD and PRICE</string>
+    <string name="tv">Bike</string>
+    <string name="tvH2Wheels">WHEELS</string>
+    <string name="tvH2Color">COLOR</string>
+    <string name="tvH2Break">BREAK</string>
+    <string name="btnBuy">BUY</string>
+    <string name="tvH1">CHOOSE THE ACCESSORIES</string>
+    <string name="tvRed">RED</string>
+    <string name="tvGreen">GREEN</string>
+    <string name="tvBlue">BLUE</string>
+    <string name="btnOk">OK</string>
+    <string name="btnOkBreak">OK</string>
+    <string name="tvWheels">CHOOSE THE WHEELS</string>
+    <string name="btnWheelsOk">OK</string>
+    <string name="tvBreak">CHOOSE THE BREAK</string>
+    <string name="msg">"Choose position"</string>
+    <string name="msg2">"Must be chose all positions"</string>
+    <string name="msgFinal">"You bought a bicycle"</string>
+    <string-array name="assortiment">
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="assortimentBreak">
+        <item>h5bb</item>
+        <item>76h7</item>
+        <item>j8</item>
+        <item>8i</item>
+        <item>67</item>
+        <item>s</item>
+        <item>zx</item>
+        <item>ik</item>
+        <item>,ii</item>
+        <item>rwe</item>
+        <item>dd</item>
+        <item>sfd</item>
+        <item>dsfg</item>
+        <item>sdfg</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Widget Application</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="btnOk">OK</string>
+    <string name="tvRed">RED</string>
+    <string name="tvGreen">GREEN</string>
+    <string name="tvBlue">BLUE</string>
+</resources>

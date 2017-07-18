@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="btnSave">Save</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="copy">Copy</string>
+    <string name="delete">Delete</string>
+    <string name="past">Past</string>
+    <string name="back">Back</string>
+</resources>
